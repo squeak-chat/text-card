@@ -5,7 +5,7 @@ author: Squeak-Team <admin@squeak.com>
 squeakUsername: squeak
 repository:
   url: https://github.com/squeak/text-card.git
-  version: master
+  version: main
 files:
   html: source/index.html
   css: source/styles.css
