@@ -1,1 +1,1 @@
-console.log("Squeak Card! $squeak_user")
+console.log("Squeak Card! {{squeak_user}}")
