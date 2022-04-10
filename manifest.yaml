@@ -3,6 +3,7 @@ name: Text Post
 description: Creating post using text
 author: Squeak-Team <admin@squeak.com>
 squeakUsername: squeak
+placeholder_title: Title
 repository:
   url: https://github.com/squeak/text-card.git
   version: main
@@ -13,3 +14,4 @@ files:
 parameters:
   - name: text
     type: text
+    placeholder: Write something...
