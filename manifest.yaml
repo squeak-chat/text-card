@@ -13,5 +13,5 @@ files:
   javascript: source/index.js
 parameters:
   - name: text
-    type: text
+    type: richtext
     placeholder: Write something...
